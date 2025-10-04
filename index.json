@@ -791,7 +791,7 @@
   {
     "name": "Aniyomi: FASELHD",
     "pkg": "eu.kanade.tachiyomi.animeextension.ar.faselhd",
-    "apk": "aniyomi-ar.faselhd-v14.24.apk",
+    "apk": "apk/aniyomi-ar.faselhd-v14.24.apk",
     "lang": "ar",
     "code": 24,
     "version": "14.24",
